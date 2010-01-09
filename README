@@ -1,0 +1,14 @@
+Code4PizzaCollator
+
+Basic outline:
+A simple tool to enable users collate the lat/lon data of bus stops in Northern Ireland.  When the app is running add the route number you are on and everytime you see a bus stop grab the location.  Data is saved on your device until you press the upload button.
+
+Not the most elegant way of collating data but it's a handy way of enabling the crowdsourcing of data for the province.
+
+The SQLite database file, code4pizzacollator.db, is included in the distribution so you can start working right away.  The final server where the data is to be uploaded hasn't been decided yet.
+
+For further information:
+The blog: http://www.jasebell.co.uk/category/code4pizzacollator/
+The repository: http://github.com/jasebell/Code4PizzaCollator
+
+
